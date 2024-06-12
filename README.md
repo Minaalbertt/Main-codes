@@ -15,5 +15,5 @@
 - type null> #Making new file
 - del #Deleting file
 - ren/rename #Rename filename
-- move #Moving file
+- move /y #Moving file
 - copy /y #Copying file
