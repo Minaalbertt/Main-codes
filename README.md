@@ -6,7 +6,7 @@
 - git branch -M main
 - git remote add origin 
 - git push -u origin main
-- git clone -b '<ranch>' '<remote_repo>' #Cloning specific barnch
+- git clone -b "<branch>" '<remote_repo>' #Cloning specific barnch
 - git clone '<remote_repo>'
 
 #Main commands for cmd
