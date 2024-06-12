@@ -1,20 +1,19 @@
-# Main-codes for git
+Main-codes for git
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin
+git push -u origin main
+git clone -b <remote_repo> #Cloning specific barnch
+git clone <remote_repo>
 
-- git init
-- git add README.md
-- git commit -m "first commit"
-- git branch -M main
-- git remote add origin 
-- git push -u origin main
-- git clone -b "<branch>" '<remote_repo>' #Cloning specific barnch
-- git clone '<remote_repo>'
+# Main commands for cmd
 
-#Main commands for cmd
-
-- rmdir /S /Q <PATH> #Delete folder and his files
-- mkdir '<PATH>' #Making new folder
-- type null> '<filename>' #Making new file
-- del '<file>' #Deleting file
-- ren/rename '<filename>' '<newfilename>' #Rename filename
-- move '<file>' '<New PATH>' #Moving file
-- copy /y '<file>' '<PATH>' #Copying file
+rmdir /S /Q #Delete folder and his files
+mkdir #Making new folder
+type null> #Making new file
+del #Deleting file
+ren/rename #Rename filename
+move #Moving file
+copy /y #Copying file
