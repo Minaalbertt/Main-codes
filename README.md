@@ -17,3 +17,4 @@
 - ren/rename #Rename filename
 - move /y #Moving file
 - copy /y #Copying file
+- Expand-Archive C:\a.zip -DestinationPath C:\a # extract zip files
