@@ -8,3 +8,6 @@
 - move /y #Moving file
 - copy /y #Copying file
 - Expand-Archive C:\a.zip -DestinationPath C:\a # extract zip files
+
+#Powershell Commands:
+- $pwd #display current dir path
